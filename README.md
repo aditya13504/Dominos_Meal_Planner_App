@@ -1,5 +1,5 @@
 # 👻Secret Message App  
-*A simple yet secure way to encode/decode messages using a Caesar cipher shift.*
+*A simple yet secure way to encode/decode messages.*
 
 
 ---
