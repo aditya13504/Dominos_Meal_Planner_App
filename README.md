@@ -44,9 +44,6 @@ Click the Decode button (red).
 Long-press the encoded/decoded text to copy it.
 
 ---
-## ⭐ Future Enhancements
-Add more encryption algorithms (e.g., AES, Vigenère).
-Implement secure message sharing via SMS/email.
-Add a PIN lock or fingerprint authentication.
+
 ## 🤝 Contributing
 Contrubutions are always welcome.
