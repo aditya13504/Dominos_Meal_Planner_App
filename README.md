@@ -34,11 +34,13 @@ git clone https://github.com/aditya13504/Secret_Message_App.git
 ## Encode a Message:
 Type your message in the "Encode" text field.
 Click the Encode button (green).
+
 ---
 
 ## Decode a Message:
 Paste the encoded text into the "Decode" field.
 Click the Decode button (red).
+
 --- 
 ## Copy Results:
 Long-press the encoded/decoded text to copy it.
